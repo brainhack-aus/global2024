@@ -1,0 +1,29 @@
+<!-- Portfolio Grid Section -->
+<section class="page-section" id="venues" class="bg-light-gray">
+  <div class="container">
+      <div class="row">
+          <div class="col-lg-12 text-center">
+              <h2 class="section-heading">Venues</h2>
+              <h3 class="section-subheading text-muted"></h3>
+          </div>
+      </div>
+      <div class="row">
+      {% for venue in site.data.venues %}
+          <div class="col-md-4 col-sm-6 venues-item">
+              <a href="#{{ venue.name }}" class="venues-link" data-toggle="modal">
+                  <div class="venues-hover">
+                      <div class="venues-hover-content">
+                          <i class="fa fa-plus fa-3x"></i>
+                      </div>
+                  </div>
+                  <img src="assets/img/venues/{{ venue.thumbnail }}" class="img-responsive img-centered" alt="">
+              </a>
+              <div class="venues-caption">
+                  <h4>{{ venue.title }}</h4>
+                  <p class="text-muted">{{ venue.city }}</p>
+              </div>
+          </div>
+      {% endfor %}
+      </div>
+  </div>
+</section>

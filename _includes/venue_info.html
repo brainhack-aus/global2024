@@ -1,0 +1,25 @@
+ <!-- Portfolio Modals -->
+ {% for venue in site.data.venues %}
+ <div class="modal venue-modal venue-page" id="{{ venue.name }}" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-lg" role="document">
+      <div class="modal-content venue-focus">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">          
+                    <div class="modal-body">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true" style="color: white">&times;</span>
+                        </button>
+                        <h2>{{ venue.title }}</h2>
+                        <img src="assets/img/venues/{{ venue.img }}" class="img-responsive img-centered" alt="{{ venue.alt }}">
+                        <h3>{{ venue.city}}</h3>
+                        <h6>{{ venue.people }}</h6>
+                        <p>{{ venue.description }}</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+      </div>
+    </div>
+  </div>
+{% endfor %}

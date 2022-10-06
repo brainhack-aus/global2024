@@ -1,0 +1,60 @@
+header:
+  title: Welcome to Brainhack Global 2022 - Australasia - The University of Sydney
+  text: Nov 30 - Dec 2
+  button: Register (Eventbrite)
+  buttonlink: ""
+
+about:
+  title: "About"
+  section: about
+  subsections:
+    - title: BrainHack Org
+      body: "The purpose of Brainhack is to bridge the data science and
+             neuroscience research communities to advance the progress of
+             neuroscience. Brainhack is a unique conference that
+             convenes researchers from across the globe and myriad
+             disciplines to work together on innovative projects related
+             to neuroscience.\n
+
+             Brainhack Global is dedicated to a harassment-free conference
+             experience for everyone. Our anti-harassment policy can be
+             found here: <a
+             href=\"http://www.brainhack.org/code-of-conduct.html\">Code of
+             Conduct</a>\n\n" 
+    - title: BrainHack Global 2022
+      body: "BrainHack Global (BHG) is a hackathon consisting of many
+             <a href=\"https://brainhack.org/global2022/events/\">local events</a>
+             in different regions around the world. Sign up to be involved with any of the
+             <a href=\"https://brainhack.org/global2022/projects/\">international projects</a>
+             and connect with peers in the Australasia Hub for advice,
+             training and social meet-ups.\n\n"
+
+hacktrack:
+  title: "HACK-TRACK"
+  text: "Become part of the global brain-hackathon!"
+  subtext: "Get involved with interesting projects and form collaborations in Australasia and around the world."
+  register: https://uqz.zoom.us/meeting/register/tZYof-6hqzItGNDIc1_g8ninsuLFDstlOpRO
+  section: hacktrack
+  items:
+    - name: "Guidelines"
+      description: "How to contribute"
+      image: assets/img/guidelines.jpg
+      link: https://github.com/brainhackorg/bhg-event-materials/blob/master/docs/leading_and_attending_to_brainhack_projects.md
+    - name: "Projects"
+      description: "The list of projects that have been proposed"
+      image: assets/img/bh_logo.png
+      link: https://brainhack.org/global2022/projects/
+    - name: "New project"
+      description: "Submit your own proposal here"
+      image: assets/img/new-project.jpg
+      link: https://github.com/brainhackorg/global2022/issues/new?assignees=&labels=project&template=project-submission-template.yml
+    
+footer:
+  legal: "Title image adapted from original by <a href=\"https://pixabay.com/users/gdj-1086657/\">Gordon Johnson</a> from <a href=\"https://pixabay.com/\">Pixabay</a>"
+  social:
+    - url: https://twitter.com/hashtag/BHAUS2021
+      icon: "fab fa-twitter"
+    - url: https://brainhack.org/global2021
+      icon: "fab fa-github"
+    - url: https://www.instagram.com/brainhack_global/
+      icon: "fab fa-instagram"

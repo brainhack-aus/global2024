@@ -1,0 +1,9 @@
+nav:
+  - title: "About"
+    section: about
+
+  - title: "Hack"
+    section: hacktrack
+
+  - title: "Global"
+    url: https://brainhack.org/global2022/
