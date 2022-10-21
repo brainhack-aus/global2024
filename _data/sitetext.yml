@@ -48,13 +48,40 @@ hacktrack:
       description: "Submit your own proposal here"
       image: assets/img/new-project.jpg
       link: https://github.com/brainhackorg/global2022/issues/new?assignees=&labels=project&template=project-submission-template.yml
-    
+
+sponsors:
+  title: "SPONSORS"
+  section: sponsors
+  text: We would like to kindly thank
+  items:
+    - name: "National Imaging Facility (NIF)"
+      image: assets/img/nif-logo-landscape-monowhite-transparent.png
+      link: https://anif.org.au/
+      description: >-
+        The National Imaging Facility (NIF) has generously supplied funds to cover catering,
+        and staff time to help organise and promote the workshop.
+    - name: "Oracle"
+      image: assets/img/oracle.png
+      link: https://www.oracle.com/au/research/
+      description: >-
+        Oracle for Research supports academic, educational, and institutional researchers
+        in all aspects of discovery. We've made it simple for them to host, store and
+        analyze their data with our cloud infrastructure solutions. Our research
+        customers are changing the world - and we're proud to help them do it.
+    # - name: "The University of Sydney"
+    #   image: assets/img/usyd-logo-white.png
+    #   link: https://www.sydney.edu.au/
+    #   description: >-
+    #     The University of Sydney is providing multi-purpose rooms in the The University
+    #     of Sydney Business school as the venue for the hackathon, in addition to staff
+    #     time to support the organisation.
+
 footer:
   legal: "Title image adapted from original by <a href=\"https://pixabay.com/users/gdj-1086657/\">Gordon Johnson</a> from <a href=\"https://pixabay.com/\">Pixabay</a>"
   social:
-    - url: https://twitter.com/hashtag/BHAUS2021
+    - url: https://twitter.com/hashtag/brainhack-aus
       icon: "fab fa-twitter"
-    - url: https://brainhack.org/global2021
+    - url: https://brainhack.org/global2022
       icon: "fab fa-github"
     - url: https://www.instagram.com/brainhack_global/
       icon: "fab fa-instagram"

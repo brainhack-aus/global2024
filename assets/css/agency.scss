@@ -26,5 +26,6 @@ $contact-image: "{{ site.data.style.contact-image }}";
 @import "layout/masthead.scss";
 @import "layout/venues.scss";
 @import "layout/hacktrack.scss";
+@import "layout/sponsors.scss";
 @import "layout/schedule.scss";
 @import "layout/footer.scss";
