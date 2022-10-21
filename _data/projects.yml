@@ -1,0 +1,17 @@
+- title: NeuroDesk
+  name: NeuroDesk
+  img: neurodesk.svg
+  link: https://www.neurodesk.org/
+  thumbnail: neurodesk.svg
+  people: Steffen Bollman, Oren Civier, Tom Johnstone and Aswin Narayanan
+  short_desc: >-
+      A flexible, scalable, and browser-based data analysis environment for
+      reproducible neuroimaging
+  description: >-
+      NeuroDesk was a project proposed at the 2020 Australian chapter of the OHBM hackathon,
+      which has grown into a fully-fledged data analysis environment and is powering the
+      Australian Electrophysiology Data Analytics PlaTform (AEDAPT) project funded by
+      the Australian Research Data Commons (ARDC).
+    
+
+

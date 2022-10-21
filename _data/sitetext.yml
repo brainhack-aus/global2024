@@ -38,6 +38,11 @@ venue:
   maplink: https://goo.gl/maps/KkAsRHYk569oUMxF7
   address: Abercrombie Building H70, Corner Abercrombie Street and, Codrington St, Darlington NSW 2006
 
+projects:
+  title: FEATURED PROJECTS
+  text: Interesting projects from past hackathons or proposed for 2022
+  section: projects
+
 
 hacktrack:
   title: "JOINING IN"
@@ -58,6 +63,7 @@ hacktrack:
       description: "Submit your own proposal here"
       image: assets/img/new-project.jpg
       link: https://github.com/brainhackorg/global2022/issues/new?assignees=&labels=project&template=project-submission-template.yml
+
 
 sponsors:
   title: "SPONSORS"
@@ -84,7 +90,7 @@ sponsors:
     #   description: >-
     #     The University of Sydney is providing multi-purpose rooms in the The University
     #     of Sydney Business school as the venue for the hackathon, in addition to staff
-    #     time to support the organisation.
+    #     time to support the organisation of the workshop.
 
 footer:
   legal: "Title image adapted from original by <a href=\"https://pixabay.com/users/gdj-1086657/\">Gordon Johnson</a> from <a href=\"https://pixabay.com/\">Pixabay</a>"
