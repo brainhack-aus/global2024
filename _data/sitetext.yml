@@ -1,5 +1,5 @@
 header:
-  title: Welcome to Brainhack Global 2022 - Australasia - The University of Sydney
+  title: Welcome to Brainhack Global 2022 Australasia - Sydney
   text: Nov 30 - Dec 2
   button: Register (Eventbrite)
   buttonlink: "https://www.eventbrite.com/e/brainhack-australasia-2022-tickets-432422065037"
@@ -46,8 +46,7 @@ projects:
 
 hacktrack:
   title: "JOINING IN"
-  text: "Become part of the global brain-hackathon!"
-  subtext: "Get involved with interesting projects and form collaborations in Sydney and around the world."
+  text: "Get involved with interesting projects and form collaborations in Sydney and around the world."
   register: https://uqz.zoom.us/meeting/register/tZYof-6hqzItGNDIc1_g8ninsuLFDstlOpRO
   section: hacktrack
   items:
@@ -55,7 +54,7 @@ hacktrack:
       description: "How to contribute"
       image: assets/img/guidelines.jpg
       link: https://github.com/brainhackorg/bhg-event-materials/blob/master/docs/leading_and_attending_to_brainhack_projects.md
-    - name: "Projects"
+    - name: "Submitted projects"
       description: "The list of projects that have been proposed"
       image: assets/img/bh_logo.png
       link: https://brainhack.org/global2022/projects/
