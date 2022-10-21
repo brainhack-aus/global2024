@@ -2,8 +2,14 @@ nav:
   - title: "About"
     section: about
 
-  - title: "Hack"
+  - title: "Venue"
+    section: venue
+
+  - title: "Join-in"
     section: hacktrack
+
+  - title: "Featured"
+    section: projects
 
   - title: "Global"
     url: https://brainhack.org/global2022/
