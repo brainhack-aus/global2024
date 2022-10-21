@@ -29,8 +29,18 @@ about:
              and connect with peers in the Australasia Hub for advice,
              training and social meet-ups.\n\n"
 
+venue:
+  title: VENUE
+  text: The first in-person Australasian event!
+  name: The University of Sydney Business School
+  image: assets/img/sydney-business-school.png
+  link: https://www.sydney.edu.au/business/about/location-and-facilities.html
+  maplink: https://goo.gl/maps/KkAsRHYk569oUMxF7
+  address: Abercrombie Building H70, Corner Abercrombie Street and, Codrington St, Darlington NSW 2006
+
+
 hacktrack:
-  title: "HACK-TRACK"
+  title: "JOINING IN"
   text: "Become part of the global brain-hackathon!"
   subtext: "Get involved with interesting projects and form collaborations in Sydney and around the world."
   register: https://uqz.zoom.us/meeting/register/tZYof-6hqzItGNDIc1_g8ninsuLFDstlOpRO
