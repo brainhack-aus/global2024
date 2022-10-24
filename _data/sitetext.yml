@@ -73,8 +73,8 @@ sponsors:
       image: assets/img/nif-logo-landscape-monowhite-transparent.png
       link: https://anif.org.au/
       description: >-
-        The National Imaging Facility (NIF) has generously supplied funds to cover catering,
-        and staff time to help organise and promote the workshop.
+        The National Imaging Facility (NIF) has generously supplied funds,
+        and staff time to help organise and promote the hackathon.
     - name: "Oracle"
       image: assets/img/oracle.png
       link: https://www.oracle.com/au/research/
@@ -83,6 +83,14 @@ sponsors:
         in all aspects of discovery. We've made it simple for them to host, store and
         analyze their data with our cloud infrastructure solutions. Our research
         customers are changing the world - and we're proud to help them do it.
+    - name: "Australian Characterisation Commons at Scale (ACCS)"
+      image: assets/img/accs-logo.png
+      link: https://twitter.com/cdatacommons
+      description: >-
+        The Australian Characterisation Commons at Scale (ACCS) Project is a data
+        infrastructure project that aids researchers to find, access and interact with
+        digital characterisation data and resources with ease. The ACCS Project is
+        supported by the Australian Research Data Commons (ARDC).
     # - name: "The University of Sydney"
     #   image: assets/img/usyd-logo-white.png
     #   link: https://www.sydney.edu.au/
