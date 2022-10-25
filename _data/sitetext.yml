@@ -9,7 +9,7 @@ about:
   section: about
   image: assets/img/animals-hacking.png
   text: What is a BrainHack anyway?
-  imagetext: Dall-E impression of what an Australasian BrainHack is about
+  imagetext: <a href="https://openai.com/dall-e-2/">Dall-E</a> impression of what an Australasian BrainHack is about
   subsections:
     - title: BrainHack Org
       body: "The purpose of the Brainhack organistaion is to bridge the data science and
