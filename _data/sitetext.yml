@@ -73,7 +73,9 @@ sponsors:
       image: assets/img/nif-logo-landscape-monowhite-transparent.png
       link: https://anif.org.au/
       description: >-
-        The National Imaging Facility (NIF) has generously supplied funds,
+        The National Imaging Facility (NIF) provides open access to flagship imaging
+        equipment, expertise, tools, data and analysis within Australia’s strategic
+        science and research priorities. NIF has generously supplied funds,
         and staff time to help organise and promote the hackathon.
     - name: "Oracle"
       image: assets/img/oracle.png
