@@ -5,6 +5,9 @@ nav:
   - title: "Venue"
     section: venue
 
+  - title: "Schedule"
+    section: schedule
+
   - title: "Join-in"
     section: hacktrack
 
