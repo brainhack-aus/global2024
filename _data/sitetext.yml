@@ -34,6 +34,10 @@ about:
 venue:
   title: VENUE
   text: The first in-person Australasian event!
+  description: >-
+      <i>We acknowledge the traditional owners of the lands on which Sydney University is
+      located, the Gadigal people of the Eora Nation, and we pay our respect to the
+      knowledge embedded forever within the Aboriginal Custodianship of Country.</i>
   name: The University of Sydney Business School
   image: assets/img/sydney-business-school.png
   map: assets/img/venue-map.png
