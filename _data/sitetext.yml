@@ -70,6 +70,18 @@ hacktrack:
       image: assets/img/new-project.jpg
       link: https://github.com/brainhackorg/global2022/issues/new?assignees=&labels=project&template=project-submission-template.yml
 
+contact:
+  title: "GET IN TOUCH"
+  text: Please reach out if you have any questions
+  image: assets/img/mattermost.png
+  channel: BrainHack Mattermost
+  link: https://mattermost.brainhack.org/brainhack/channels/brainhack-australasia
+  channel_description: >-
+      Please sign up to the Mattermost channel (an open-source Slack alternative) in order
+      to receive any updates and reach out to the local event organisers (via their
+      Mattermost handles).
+
+
 
 sponsors:
   title: "SPONSORS"

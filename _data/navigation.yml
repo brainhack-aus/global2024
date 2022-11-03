@@ -8,11 +8,14 @@ nav:
   - title: "Schedule"
     section: schedule
 
-  - title: "Join-in"
+  - title: "Join"
     section: hacktrack
 
   - title: "Featured"
     section: projects
+
+  - title: "Contact"
+    section: contact
 
   - title: "Global"
     url: https://brainhack.org/global2022/
