@@ -10,7 +10,8 @@
 - name: Chris Nolan
   affiliation: The University of NSW
   handle: cnolan
-  twitter:
+  mastodon: cnolan@fediscience.org
+  twitter: cnolanAU
 - name: Judy Zhu
   affiliation: Macquarie University
   handle: jd-zhu
