@@ -8,13 +8,13 @@ nav:
   - title: "Schedule"
     section: schedule
 
-  - title: "Join"
+  - title: "Projects"
     section: hacktrack
 
   - title: "Featured"
     section: projects
 
-  - title: "Contact"
+  - title: "connect"
     section: contact
 
   - title: "Global"

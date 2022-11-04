@@ -1,27 +1,60 @@
 - name: Kelly Garner
   affiliation: The University of Queensland
-  handle: kels
-  twitter: garner_theory
-  mastodon: garner_theory@fediscience.org
+  social:
+    - provider: mattermost
+      handle: kels
+      link: https://mattermost.brainhack.org/brainhack/channels/brainhack-australasia
+    - provider: mastodon
+      handle: garner_theory@fediscience.org
+      link: https://fediscience.org/@garner_theory
+    - provider: twitter
+      handle: garner_theory
+      link: https://twitter.com/garner_theory
 - name: Tom Close
   affiliation: The University of Sydney
-  handle: tom.close
-  twitter: TomGClose
+  social:
+    - provider: mattermost
+      handle: tom.close
+      link: https://mattermost.brainhack.org/brainhack/channels/brainhack-australasia
+    - provider: twitter
+      handle: TomGClose
+      link: https://twitter.com/TomGClose
+    # - provider: mastodon
+    #   handle: tclose@fediscience.org
+    #   link: https://fediscience.org/@tclose
 - name: Chris Nolan
   affiliation: The University of NSW
-  handle: cnolan
-  mastodon: cnolan@fediscience.org
-  twitter: cnolanAU
+  social:
+    - provider: mattermost
+      handle: cnolan
+      link: https://mattermost.brainhack.org/brainhack/channels/brainhack-australasia
+    - provider: mastodon
+      handle: cnolan@fediscience.org
+      link: https://fediscience.org/@cnolan
+    - provider: twitter
+      handle: cnolanAU
+      link: https://twitter.com/cnolanAU
 - name: Judy Zhu
   affiliation: Macquarie University
-  handle: jd-zhu
-  twitter: JudyDZhu
+  social:
+    - provider: mattermost
+      handle: jd-zhu
+      link: https://mattermost.brainhack.org/brainhack/channels/brainhack-australasia
+    - provider: twitter
+      handle: JudyDZhu
+      link: https://twitter.com/JudyDZhu
 - name: Sina Mansour
   affiliation: The University of Melbourne
-  handle: sina_mansour_l
-  twitter: Sina_Mansour_L
+  social:
+    - provider: mattermost
+      handle: sina_mansour_l
+      link: https://mattermost.brainhack.org/brainhack/channels/brainhack-australasia
+    - provider: twitter
+      handle: Sina_Mansour_L
+      link: https://twitter.com/Sina_Mansour_L
 - name: Niousha Dehestani
   affiliation: Deakin University
-  handle: niousha-d
-  twitter:
-    
+  social:
+    - provider: mattermost
+      handle: niousha-d
+      link: https://mattermost.brainhack.org/brainhack/channels/brainhack-australasia

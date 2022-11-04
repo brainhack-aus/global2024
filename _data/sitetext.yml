@@ -46,13 +46,12 @@ venue:
   address: Abercrombie Building H70, Corner Abercrombie Street and, Codrington St, Darlington NSW 2006
 
 projects:
-  title: FEATURED PROJECTS
+  title: FEATURED
   text: Interesting projects from past hackathons
   section: projects
 
-
 hacktrack:
-  title: "JOINING IN"
+  title: "PROJECTS"
   text: "Form collaborations in Australia and around the world"
   register: https://uqz.zoom.us/meeting/register/tZYof-6hqzItGNDIc1_g8ninsuLFDstlOpRO
   section: hacktrack
@@ -77,11 +76,10 @@ contact:
   channel: BrainHack Mattermost
   link: https://mattermost.brainhack.org/brainhack/channels/brainhack-australasia
   channel_description: >-
-      Please sign up to the Mattermost channel (an open-source Slack alternative) in order
+      Please sign up to the <a href="https://mattermost.brainhack.org/brainhack/channels/brainhack-australasia">
+      Mattermost channel</a> (an open-source Slack alternative) in order
       to receive any updates and reach out to the local event organisers (via their
-      Mattermost handles).
-
-
+      handles).
 
 sponsors:
   title: "SPONSORS"
