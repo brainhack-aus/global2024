@@ -16,12 +16,12 @@
     - provider: mattermost
       handle: tom.close
       link: https://mattermost.brainhack.org/brainhack/channels/brainhack-australasia
+    - provider: mastodon
+      handle: tclose@fediscience.org
+      link: https://fediscience.org/@tclose      
     - provider: twitter
       handle: TomGClose
       link: https://twitter.com/TomGClose
-    # - provider: mastodon
-    #   handle: tclose@fediscience.org
-    #   link: https://fediscience.org/@tclose
 - name: Chris Nolan
   affiliation: The University of NSW
   social:
