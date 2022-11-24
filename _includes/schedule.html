@@ -36,8 +36,11 @@
             {{ event.starttime | date: "%s" |plus: -7200 | date: "%H:%M" }} -
             {{ event.endtime | date: "%s" | plus: -7200 | date: "%H:%M" }} AWST
           </div> -->
-          <div class="col-md-8">
+          <div class="col-md-4">
             {{ event.title }}
+          </div>
+          <div class="col-md-4">
+            {{ event.venue }}
           </div>
         </div>
         {% endfor %}

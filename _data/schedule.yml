@@ -10,11 +10,12 @@
       endtime:  2022-11-30T13:00:00+11:00
       title: Lunch  
     - starttime: 2022-11-30T13:00:00+11:00
-      endtime: 2022-11-30T18:00:00+11:00
+      endtime: 2022-11-30T17:30:00+11:00
       title: Hacking
-    - starttime: 2022-11-30T19:00:00+11:00
+    - starttime: 2022-11-30T18:00:00+11:00
       endtime: 2022-11-30T22:00:00+11:00
       title: Social
+      venue: <a href="https://g.page/themarlynewtown?share">@ The Marlborough Hotel -<br>145 King St, Newtown NSW 2042</a>
     
 - name: "Thursday, December 1"
   events:
