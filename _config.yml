@@ -21,14 +21,14 @@
 #theme: jekyll-agency
 # remote_theme: raviriley/agency-jekyll-theme
 
-baseurl: "/global2022" # the subpath of your site, e.g. /blog
+baseurl: "/global2023" # the subpath of your site, e.g. /blog
 url: "https://brainhack-aus.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
-title      : Brainhack Global 2022 - Australasia
+title      : Brainhack Global 2023 - Australasia
 email      : cnolan@gmail.com #this is also the email contact forms will go to
-description: "Australasia Hub of the 2022 BrainHack Global Hackathon"
+description: "Australasia Hub of the 2023 BrainHack Global Hackathon"
 author     : Brainhack Australasia
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg

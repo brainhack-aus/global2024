@@ -1,57 +1,57 @@
-- name: "Wednesday, November 30"
+- name: "Wednesday, November 22"
   events:
-    - starttime: 2022-11-30T9:00:00+11:00
-      endtime:  2022-11-30T10:00:00+11:00
+    - starttime: 2023-11-22T9:00:00+11:00
+      endtime:  2023-11-22T10:00:00+11:00
       title: Meet, greet & breakfast
-    - starttime: 2022-11-30T10:00:00+11:00
-      endtime:  2022-11-30T12:00:00+11:00
+    - starttime: 2023-11-22T10:00:00+11:00
+      endtime:  2023-11-22T12:00:00+11:00
       title: Project pitches and team formation
-    - starttime: 2022-11-30T12:00:00+11:00
-      endtime:  2022-11-30T13:00:00+11:00
+    - starttime: 2023-11-22T12:00:00+11:00
+      endtime:  2023-11-22T13:00:00+11:00
       title: Lunch  
-    - starttime: 2022-11-30T13:00:00+11:00
-      endtime: 2022-11-30T17:30:00+11:00
+    - starttime: 2023-11-22T13:00:00+11:00
+      endtime: 2023-11-22T17:30:00+11:00
       title: Hacking
-    - starttime: 2022-11-30T18:00:00+11:00
-      endtime: 2022-11-30T22:00:00+11:00
+    - starttime: 2023-11-22T18:00:00+11:00
+      endtime: 2023-11-22T22:00:00+11:00
       title: Social
-      venue: <a href="https://g.page/themarlynewtown?share">@ The Marlborough Hotel -<br>145 King St, Newtown NSW 2042</a>
+      venue: <a href="">TBA</a>
     
-- name: "Thursday, December 1"
+- name: "Thursday, November 23"
   events:
-    - starttime: 2022-12-01T9:00:00+11:00
-      endtime:  2022-12-01T10:00:00+11:00
+    - starttime: 2023-11-23T9:00:00+11:00
+      endtime:  2023-11-23T10:00:00+11:00
       title: Breakfast
-    - starttime: 2022-12-01T10:00:00+11:00
-      endtime: 2022-12-01T12:00:00+11:00
+    - starttime: 2023-11-23T10:00:00+11:00
+      endtime: 2023-11-23T12:00:00+11:00
       title: Hacking
-    - starttime: 2022-12-01T12:00:00+11:00
-      endtime:  2022-12-01T13:00:00+11:00
+    - starttime: 2023-11-23T12:00:00+11:00
+      endtime:  2023-11-23T13:00:00+11:00
       title: Lunch  
-    - starttime: 2022-11-30T13:00:00+11:00
-      endtime: 2022-12-01T18:00:00+11:00
+    - starttime: 2023-11-22T13:00:00+11:00
+      endtime: 2023-11-23T18:00:00+11:00
       title: Hacking
-    - starttime: 2022-11-30T19:00:00+11:00
-      endtime: 2022-12-01T21:00:00+11:00
-      title: DIY activities (e.g. bouldering with Kel & Chris)
+    - starttime: 2023-11-22T19:00:00+11:00
+      endtime: 2023-11-23T21:00:00+11:00
+      title: DIY activities
 
-- name: "Friday, December 2"
+- name: "Friday, November 24"
   events:
-    - starttime: 2022-12-02T9:00:00+11:00
-      endtime:  2022-12-02T10:00:00+11:00
+    - starttime: 2023-11-24T9:00:00+11:00
+      endtime:  2023-11-24T10:00:00+11:00
       title: Breakfast
-    - starttime: 2022-12-01T10:00:00+11:00
-      endtime: 2022-12-01T12:00:00+11:00
+    - starttime: 2023-11-23T10:00:00+11:00
+      endtime: 2023-11-23T12:00:00+11:00
       title: Hacking
-    - starttime: 2022-12-01T12:00:00+11:00
-      endtime:  2022-12-01T13:00:00+11:00
+    - starttime: 2023-11-23T12:00:00+11:00
+      endtime:  2023-11-23T13:00:00+11:00
       title: Lunch  
-    - starttime: 2022-11-30T13:00:00+11:00
-      endtime: 2022-12-01T15:00:00+11:00
+    - starttime: 2023-11-22T13:00:00+11:00
+      endtime: 2023-11-23T15:00:00+11:00
       title: Hacking
-    - starttime: 2022-12-02T15:00:00+11:00
-      endtime: 2022-12-01T16:00:00+11:00
+    - starttime: 2023-11-24T15:00:00+11:00
+      endtime: 2023-11-23T16:00:00+11:00
       title: Project demos
-    - starttime: 2022-12-02T16:00:00+11:00
-      endtime: 2022-12-01T18:00:00+11:00
+    - starttime: 2023-11-24T16:00:00+11:00
+      endtime: 2023-11-23T18:00:00+11:00
       title: DIY drinks
