@@ -1,8 +1,8 @@
 - name: "Wednesday, November 22"
   events:
-    - starttime: 2023-11-22T9:00:00+11:00
+    - starttime: 2023-11-22T09:00:00+11:00
       endtime:  2023-11-22T10:00:00+11:00
-      title: Meet, greet & breakfast
+      title: Meet, greet
     - starttime: 2023-11-22T10:00:00+11:00
       endtime:  2023-11-22T12:00:00+11:00
       title: Project pitches and team formation
@@ -15,10 +15,7 @@
 
 - name: "Thursday, November 23"
   events:
-    - starttime: 2023-11-23T9:00:00+11:00
-      endtime:  2023-11-23T10:00:00+11:00
-      title: Breakfast
-    - starttime: 2023-11-23T10:00:00+11:00
+    - starttime: 2023-11-23T09:00:00+11:00
       endtime: 2023-11-23T12:00:00+11:00
       title: Hacking
     - starttime: 2023-11-23T12:00:00+11:00
@@ -34,10 +31,7 @@
 
 - name: "Friday, November 24"
   events:
-    - starttime: 2023-11-24T9:00:00+11:00
-      endtime:  2023-11-24T10:00:00+11:00
-      title: Breakfast
-    - starttime: 2023-11-23T10:00:00+11:00
+    - starttime: 2023-11-23T09:00:00+11:00
       endtime: 2023-11-23T12:00:00+11:00
       title: Hacking
     - starttime: 2023-11-23T12:00:00+11:00
