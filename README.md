@@ -1,5 +1,5 @@
-# global2023
-Website for Brainhack Global 2023 - Australasia
+# global2024
+Website for Brainhack Global 2024 - Australasia
 
 To run, build a docker image:
 
