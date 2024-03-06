@@ -13,9 +13,9 @@
     - provider: mattermost
       handle: tom.close
       link: https://mattermost.brainhack.org/brainhack/channels/brainhack-australasia
-    - provider: mastodon
-      handle: tclose@fediscience.org
-      link: https://fediscience.org/@tclose
+    - provider: bluesky
+      handle: tomclose.bsky.social
+      link: https://bsky.app/profile/tomclose.bsky.social
     - provider: twitter
       handle: TomGClose
       link: https://twitter.com/TomGClose

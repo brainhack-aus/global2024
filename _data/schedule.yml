@@ -1,54 +1,54 @@
-- name: "Wednesday, November 22"
+- name: "Monday, November 4"
   events:
-    - starttime: 2023-11-22T08:30:00+11:00
-      endtime:  2023-11-22T10:00:00+11:00
+    - starttime: 2024-11-4T08:30:00+11:00
+      endtime:  2024-11-4T10:00:00+11:00
       title: Meet, greet (over breakfast)
-    - starttime: 2023-11-22T10:00:00+11:00
-      endtime:  2023-11-22T12:00:00+11:00
+    - starttime: 2024-11-4T10:00:00+11:00
+      endtime:  2024-11-4T12:00:00+11:00
       title: Project pitches and team formation
-    - starttime: 2023-11-22T12:00:00+11:00
-      endtime:  2023-11-22T13:00:00+11:00
+    - starttime: 2024-11-4T12:00:00+11:00
+      endtime:  2024-11-4T13:00:00+11:00
       title: Lunch
-    - starttime: 2023-11-22T13:00:00+11:00
-      endtime: 2023-11-22T18:00:00+11:00
+    - starttime: 2024-11-4T13:00:00+11:00
+      endtime: 2024-11-4T18:00:00+11:00
       title: Hacking
-
-- name: "Thursday, November 23"
-  events:
-    - starttime: 2023-11-23T08:30:00+11:00
-      endtime: 2023-11-23T09:00:00+11:00
-      title: Breakfast
-    - starttime: 2023-11-23T09:00:00+11:00
-      endtime: 2023-11-23T12:00:00+11:00
-      title: Hacking
-    - starttime: 2023-11-23T12:00:00+11:00
-      endtime:  2023-11-23T13:00:00+11:00
-      title: Lunch
-    - starttime: 2023-11-23T13:00:00+11:00
-      endtime: 2023-11-23T18:00:00+11:00
-      title: Hacking
-    - starttime: 2023-11-23T18:00:00+11:00
-      endtime: 2023-11-23T22:00:00+11:00
+    - starttime: 2024-11-5T18:00:00+11:00
+      endtime: 2024-11-5T22:00:00+11:00
       title: Social
-      venue: <a href="https://www.therosehotel.com.au/">The Rose Hotel</a>, Chippendale
+      venue: TBA
 
-- name: "Friday, November 24"
+- name: "Tuesday, November 5"
   events:
-    - starttime: 2023-11-24T08:30:00+11:00
-      endtime: 2023-11-24T09:00:00+11:00
+    - starttime: 2024-11-5T08:30:00+11:00
+      endtime: 2024-11-5T09:00:00+11:00
       title: Breakfast
-    - starttime: 2023-11-24T09:00:00+11:00
-      endtime: 2023-11-24T12:00:00+11:00
+    - starttime: 2024-11-5T09:00:00+11:00
+      endtime: 2024-11-5T12:00:00+11:00
       title: Hacking
-    - starttime: 2023-11-24T12:00:00+11:00
-      endtime:  2023-11-24T13:00:00+11:00
+    - starttime: 2024-11-5T12:00:00+11:00
+      endtime:  2024-11-5T13:00:00+11:00
       title: Lunch
-    - starttime: 2023-11-24T13:00:00+11:00
-      endtime: 2023-11-24T15:00:00+11:00
+    - starttime: 2024-11-5T13:00:00+11:00
+      endtime: 2024-11-5T18:00:00+11:00
       title: Hacking
-    - starttime: 2023-11-24T15:00:00+11:00
-      endtime: 2023-11-24T16:00:00+11:00
+
+- name: "Wednesday, November 6"
+  events:
+    - starttime: 2024-11-6T08:30:00+11:00
+      endtime: 2024-11-6T09:00:00+11:00
+      title: Breakfast
+    - starttime: 2024-11-6T09:00:00+11:00
+      endtime: 2024-11-6T12:00:00+11:00
+      title: Hacking
+    - starttime: 2024-11-6T12:00:00+11:00
+      endtime:  2024-11-6T13:00:00+11:00
+      title: Lunch
+    - starttime: 2024-11-6T13:00:00+11:00
+      endtime: 2024-11-6T15:00:00+11:00
+      title: Hacking
+    - starttime: 2024-11-6T15:00:00+11:00
+      endtime: 2024-11-6T16:00:00+11:00
       title: Project demos
-    - starttime: 2023-11-24T16:00:00+11:00
-      endtime: 2023-11-24T18:00:00+11:00
+    - starttime: 2024-11-6T16:00:00+11:00
+      endtime: 2024-11-6T18:00:00+11:00
       title: DIY drinks
