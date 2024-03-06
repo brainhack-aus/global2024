@@ -1,3 +1,48 @@
+- title: Psy2R
+  name: psy2r
+  img: psy2r.png
+  link: https://github.com/kel-github/PSY2R
+  bh_link: https://brainhack.org/global2023/project/project_60/
+  thumbnail: psy2r.png
+  people: Kelly Garner, Jess Lee, Julie Chow, Josh Wooley, Josh Mosse-Robinson, Lydia Barnes, Kateryna Marchenko, Ambica Golyala
+  short_desc: >-
+      Port PSY package to R
+  description: >-
+      Implement main functions of Psy into R Build and test generalizable functions
+      Peek into pascal code for hairy integration functions
+- title: Behapy
+  name: behapy
+  img: behapy-big.png
+  link: https://github.com/crnolan/behapy
+  bh_link: https://brainhack.org/global2023/project/project_63/
+  thumbnail: behapy-thumb.png
+  people: Chris Nolan, Thomas Burton, Karly Turner, Phil Jean-Richard Dit Bressel, Dylan Black, Ilya Kuzovkin, Daniel Naoumenko, Almudena Ramirez, Joanne Gladding, Chelsea Goulton, J Bertran-Gonzalez, Lydia Barnes, Kelly Garner
+  short_desc: >-
+      A behavioural neuroscience analysis package for Python
+  description: |
+      Behavioural: Import scripts for behaviour-only datasets, add framework for event summary
+      and plotting functions.
+
+      Photometry: Simulate raw fibre photometry data under a variety of assumptions (testing).
+
+      Document: API (docstring) and tutorial documentation.
+
+      Statistics: Functional linear mixed modelling for event transients analysis.
+- title: Nipype2Pydra
+  name: nipype2pydra
+  img: nipype2pydra.png
+  link: https://github.com/nipype/nipype2pydra
+  bh_link: https://brainhack.org/global2023/project/project_61/
+  thumbnail: nipype2pydra.png
+  people: Tom Close, Arkiev D’Souza, Brooklyn Wright, Christian Behler, Max, Judy Zhu
+  short_desc: >-
+      Porting tool interfaces from Nipype to Pydra
+  description: |
+      Pydra is a successor Nipype workflow engine (fMRIPrep, C-PAC)
+
+      Ready to use but missing Nipype’s interface library
+
+      nipype2pydra tool has been developed to aid this conversion but requires manual input
 - title: NeuroDesk
   name: NeuroDesk
   img: neurodesk.svg
@@ -38,7 +83,6 @@
   description: >-
       Proposed as a project at the 2021 BrainHack Global Marseille event, BIDS-ephys is
       an extension proposal so that BIDS (a standardized data structure described here)
-      can support electrophysiological data recorded in animal models.    
-
+      can support electrophysiological data recorded in animal models.   
 
 
