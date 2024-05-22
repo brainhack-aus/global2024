@@ -39,12 +39,12 @@ venue:
     <i>We acknowledge the traditional owners of the lands on which the hackathon will be
     held, the Wurundjeri Woi-wurrung and Bunurong peoples, and we pay our respect
     to the knowledge embedded forever within the Aboriginal Custodianship of Country.</i>
-  name: The University of Melbourne - Building 174, INFRASTRUCTURE ENGINEERING (BLOCK C)
+  name: The University of Melbourne
   image: assets/img/venue-combined.jpg
   map: assets/img/venue-map.png
   link: "https://learningspaces.unimelb.edu.au/rooms/174/0/"
   maplink: https://maps.app.goo.gl/2WtnsbAYAjytbni48
-  address: Melbourne - Venue to be arranged
+  address: Building 174, Infrastructure Engineering (Block C)
 
 projects:
   title: FEATURED
