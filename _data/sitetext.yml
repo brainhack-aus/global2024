@@ -12,37 +12,38 @@ about:
   imagetext: <a href="https://openai.com/dall-e-2/">Dall-E</a> impression of what an Australasian BrainHack is about
   subsections:
     - title: BrainHack Org
-      body: "The purpose of the Brainhack organistaion is to bridge the data science and
-          neuroscience research communities to advance the progress of
-          neuroscience. Brainhack is a unique conference that
-          convenes researchers from across the globe and myriad
-          disciplines to work together on innovative projects related
-          to neuroscience."
+      body:
+        "The purpose of the Brainhack organistaion is to bridge the data science and
+        neuroscience research communities to advance the progress of
+        neuroscience. Brainhack is a unique conference that
+        convenes researchers from across the globe and myriad
+        disciplines to work together on innovative projects related
+        to neuroscience."
     - title: BrainHack Global 2024
-      body: "BrainHack Global (BHG) is a hackathon consisting of many
-          <a href=\"https://brainhack.org/global2024/events/\">local events</a>
-          in different regions around the world. Sign up to be involved with any of the
-          <a href=\"https://brainhack.org/global2024/projects/\">international projects</a>
-          and connect with peers in the Australasia Hub for advice,
-          training and social meet-ups."
+      body: 'BrainHack Global (BHG) is a hackathon consisting of many
+        <a href="https://brainhack.org/global2024/events/">local events</a>
+        in different regions around the world. Sign up to be involved with any of the
+        <a href="https://brainhack.org/global2024/projects/">international projects</a>
+        and connect with peers in the Australasia Hub for advice,
+        training and social meet-ups.'
     - title: Code of conduct
-      body: "Brainhack Global is dedicated to a harassment-free conference
-          experience for everyone. Our anti-harassment policy can be
-          found here: <a href=\"http://www.brainhack.org/code-of-conduct.html\">Code of
-          Conduct</a>"
+      body: 'Brainhack Global is dedicated to a harassment-free conference
+        experience for everyone. Our anti-harassment policy can be
+        found here: <a href="http://www.brainhack.org/code-of-conduct.html">Code of
+        Conduct</a>'
 
 venue:
   title: VENUE
   text: Getting together to hack brains!
   description: >-
-      <i>We acknowledge the traditional owners of the lands on which the hackathon will be
-      held, the Wurundjeri Woi-wurrung and Bunurong peoples, and we pay our respect
-      to the knowledge embedded forever within the Aboriginal Custodianship of Country.</i>
-  name: Somewhere in Melbourne
-  image: assets/img/venue.jpg
+    <i>We acknowledge the traditional owners of the lands on which the hackathon will be
+    held, the Wurundjeri Woi-wurrung and Bunurong peoples, and we pay our respect
+    to the knowledge embedded forever within the Aboriginal Custodianship of Country.</i>
+  name: The University of Melbourne - Building 174, INFRASTRUCTURE ENGINEERING (BLOCK C)
+  image: assets/img/venue-combined.jpg
   map: assets/img/venue-map.png
-  link: ""
-  maplink: https://maps.app.goo.gl/XyqaMQvKrwC5MmcQ8
+  link: "https://learningspaces.unimelb.edu.au/rooms/174/0/"
+  maplink: https://maps.app.goo.gl/2WtnsbAYAjytbni48
   address: Melbourne - Venue to be arranged
 
 projects:
@@ -76,34 +77,41 @@ contact:
   channel: BrainHack Mattermost
   link: https://mattermost.brainhack.org/brainhack/channels/brainhack-australasia
   channel_description: >-
-      Please sign up to the <a href="https://mattermost.brainhack.org/brainhack/channels/brainhack-australasia">
-      Mattermost channel</a> (an open-source Slack alternative) in order
-      to receive any updates and reach out to the local event organisers (via their
-      handles).
+    Please sign up to the <a href="https://mattermost.brainhack.org/brainhack/channels/brainhack-australasia">
+    Mattermost channel</a> (an open-source Slack alternative) in order
+    to receive any updates and reach out to the local event organisers (via their
+    handles).
 
 sponsors:
   title: "SPONSORS"
   section: sponsors
   text: We would like to kindly thank
   items:
-    # - name: "National Imaging Facility (NIF)"
-    #   image: assets/img/nif-logo-landscape-monowhite-transparent.png
-    #   link: https://anif.org.au/
-    #   description: >-
-    #     The National Imaging Facility (NIF) provides open access to flagship imaging
-    #     equipment, expertise, tools, data and analysis within Australia’s strategic
-    #     science and research priorities. NIF has generously supplied funds,
-    #     and staff time to help organise and promote the hackathon.
-
+    - name: "National Imaging Facility (NIF)"
+      image: assets/img/nif-logo-landscape-monowhite-transparent.png
+      link: https://anif.org.au/
+      description: >-
+        The National Imaging Facility (NIF) provides open access to flagship imaging
+        equipment, expertise, tools, data and analysis within Australia’s strategic
+        science and research priorities. NIF has generously supplied funds,
+        and staff time to help organise and promote the hackathon.
+    - name: "Cognitive Neurosceience Hub"
+      image: assets/img/cog-neuro-hub.png
+      link: https://psychologicalsciences.unimelb.edu.au/cognitive-neuroscience-hub
+      description: >-
+        Cognitive neuroscience investigates the biological processes that underlie human
+        cognition. We strive to answer the question: How does the brain generate
+        behaviour? To do so we combine behavioural methods with brain imaging techniques
+        (such as functional MRI and electroencephalography), computational modelling,
+        and artificial intelligence.
 
 schedule:
   section: schedule
   title: "Provisional Schedule"
   text: What's happening
 
-
 footer:
-  legal: "Title image generated by <a href=\"https://openai.com/dall-e-2/\">Dall-E</a>"
+  legal: 'Title image generated by <a href="https://openai.com/dall-e-2/">Dall-E</a>'
   social:
     - url: https://twitter.com/hashtag/brainhack_aus
       icon: "fab fa-twitter"
