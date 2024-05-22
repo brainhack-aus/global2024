@@ -28,3 +28,9 @@
     - provider: mastodon
       handle: cnolan@fediscience.org
       link: https://fediscience.org/@cnolan
+- name: Anna Behler
+  affiliation: The University of Newcastle
+  social: []
+- name: Christopher Behler
+  affiliation: The University of Newcastle
+  social: []
