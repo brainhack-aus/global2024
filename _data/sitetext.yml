@@ -105,6 +105,19 @@ sponsors:
         (such as functional MRI and electroencephalography), computational modelling,
         and artificial intelligence. The Cognitive Neuroscience Hub has generously organised
         the venue for this year's hackathon.
+    - name: OHBM Australian Chapter
+      image: assets/img/ohbm-logo.png
+      link: https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=1
+      description: >-
+        The goal of the newly formed Australian Chapter is to unite and invigorate the
+        neuroimaging community in Australia. Our members come from a variety of
+        universities and research institutes around the country – Brisbane, Melbourne, 
+        Sydney, Adelaide – working in the fields of fundamental and clinical neuroscience.
+        We aim to further promote scientific communication and outreach through organising
+        lectures, colloquia, workshops, conferences, and social/networking events throughout
+        Australia. The OHBM Australian Chapter has helped with organisation and promotion
+        of this year's Brain Hack, and its annual meeting will be colocated at the University of
+        Melbourne in the days following the hackathon.
 
 schedule:
   section: schedule
