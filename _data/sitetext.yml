@@ -88,7 +88,7 @@ sponsors:
   text: We would like to kindly thank
   items:
     - name: "National Imaging Facility (NIF)"
-      image: assets/img/nif-logo-landscape-monowhite-transparent.png
+      image: assets/img/nif-logo.png
       link: https://anif.org.au/
       description: >-
         The National Imaging Facility (NIF) provides open access to flagship imaging
