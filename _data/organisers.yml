@@ -30,7 +30,19 @@
       link: https://fediscience.org/@cnolan
 - name: Anna Behler
   affiliation: The University of Newcastle
-  social: []
-- name: Christopher Behler
+  social: 
+    - provider: mattermost
+      handle: anna.bhlr
+      link: https://mattermost.brainhack.org/brainhack/channels/brainhack-australasia
+    - provider: twitter
+      handle: Anna_NeuroSci
+      link: https://twitter.com/Anna_NeuroSci
+- name: Christian Behler
   affiliation: The University of Newcastle
-  social: []
+  social: 
+    - provider: mattermost
+      handle: chris9683
+      link: https://mattermost.brainhack.org/brainhack/channels/brainhack-australasia
+    - provider: twitter
+      handle: ChristianBehler
+      link: https://twitter.com/ChristianBehler
