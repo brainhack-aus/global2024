@@ -1,57 +1,54 @@
-- name: "Wednesday, November 30"
+- name: "Monday, November 4"
   events:
-    - starttime: 2022-11-30T9:00:00+11:00
-      endtime:  2022-11-30T10:00:00+11:00
-      title: Meet, greet & breakfast
-    - starttime: 2022-11-30T10:00:00+11:00
-      endtime:  2022-11-30T12:00:00+11:00
+    - starttime: 2024-11-4T08:30:00+11:00
+      endtime:  2024-11-4T10:00:00+11:00
+      title: Meet, greet (over breakfast)
+    - starttime: 2024-11-4T10:00:00+11:00
+      endtime:  2024-11-4T12:00:00+11:00
       title: Project pitches and team formation
-    - starttime: 2022-11-30T12:00:00+11:00
-      endtime:  2022-11-30T13:00:00+11:00
-      title: Lunch  
-    - starttime: 2022-11-30T13:00:00+11:00
-      endtime: 2022-11-30T17:30:00+11:00
+    - starttime: 2024-11-4T12:00:00+11:00
+      endtime:  2024-11-4T13:00:00+11:00
+      title: Lunch
+    - starttime: 2024-11-4T13:00:00+11:00
+      endtime: 2024-11-4T18:00:00+11:00
       title: Hacking
-    - starttime: 2022-11-30T18:00:00+11:00
-      endtime: 2022-11-30T22:00:00+11:00
+    - starttime: 2024-11-5T18:00:00+11:00
+      endtime: 2024-11-5T22:00:00+11:00
       title: Social
-      venue: <a href="https://g.page/themarlynewtown?share">@ The Marlborough Hotel -<br>145 King St, Newtown NSW 2042</a>
-    
-- name: "Thursday, December 1"
-  events:
-    - starttime: 2022-12-01T9:00:00+11:00
-      endtime:  2022-12-01T10:00:00+11:00
-      title: Breakfast
-    - starttime: 2022-12-01T10:00:00+11:00
-      endtime: 2022-12-01T12:00:00+11:00
-      title: Hacking
-    - starttime: 2022-12-01T12:00:00+11:00
-      endtime:  2022-12-01T13:00:00+11:00
-      title: Lunch  
-    - starttime: 2022-11-30T13:00:00+11:00
-      endtime: 2022-12-01T18:00:00+11:00
-      title: Hacking
-    - starttime: 2022-11-30T19:00:00+11:00
-      endtime: 2022-12-01T21:00:00+11:00
-      title: DIY activities (e.g. bouldering with Kel & Chris)
+      venue: TBA
 
-- name: "Friday, December 2"
+- name: "Tuesday, November 5"
   events:
-    - starttime: 2022-12-02T9:00:00+11:00
-      endtime:  2022-12-02T10:00:00+11:00
+    - starttime: 2024-11-5T08:30:00+11:00
+      endtime: 2024-11-5T09:00:00+11:00
       title: Breakfast
-    - starttime: 2022-12-01T10:00:00+11:00
-      endtime: 2022-12-01T12:00:00+11:00
+    - starttime: 2024-11-5T09:00:00+11:00
+      endtime: 2024-11-5T12:00:00+11:00
       title: Hacking
-    - starttime: 2022-12-01T12:00:00+11:00
-      endtime:  2022-12-01T13:00:00+11:00
-      title: Lunch  
-    - starttime: 2022-11-30T13:00:00+11:00
-      endtime: 2022-12-01T15:00:00+11:00
+    - starttime: 2024-11-5T12:00:00+11:00
+      endtime:  2024-11-5T13:00:00+11:00
+      title: Lunch
+    - starttime: 2024-11-5T13:00:00+11:00
+      endtime: 2024-11-5T18:00:00+11:00
       title: Hacking
-    - starttime: 2022-12-02T15:00:00+11:00
-      endtime: 2022-12-01T16:00:00+11:00
+
+- name: "Wednesday, November 6"
+  events:
+    - starttime: 2024-11-6T08:30:00+11:00
+      endtime: 2024-11-6T09:00:00+11:00
+      title: Breakfast
+    - starttime: 2024-11-6T09:00:00+11:00
+      endtime: 2024-11-6T12:00:00+11:00
+      title: Hacking
+    - starttime: 2024-11-6T12:00:00+11:00
+      endtime:  2024-11-6T13:00:00+11:00
+      title: Lunch
+    - starttime: 2024-11-6T13:00:00+11:00
+      endtime: 2024-11-6T15:00:00+11:00
+      title: Hacking
+    - starttime: 2024-11-6T15:00:00+11:00
+      endtime: 2024-11-6T16:00:00+11:00
       title: Project demos
-    - starttime: 2022-12-02T16:00:00+11:00
-      endtime: 2022-12-01T18:00:00+11:00
+    - starttime: 2024-11-6T16:00:00+11:00
+      endtime: 2024-11-6T18:00:00+11:00
       title: DIY drinks
