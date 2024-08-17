@@ -1,8 +1,8 @@
 header:
-  title: Brainhack Global 2024 Aus - Melbourne!
+  title: Brainhack Aus 2024 - Melbourne!
   text: Nov 4 - 6
-  button: Registration - Coming Soon
-  buttonlink: ""
+  button: Registration
+  buttonlink: "https://shop.monash.edu/joint-meeting-ohbm-australia-maths-in-the-brain-and-brainhack-australia-2024-melbourne.html"
 
 about:
   title: "ABOUT"
@@ -11,7 +11,7 @@ about:
   text: What is a BrainHack anyway?
   imagetext: <a href="https://openai.com/dall-e-2/">Dall-E</a> impression of what an Australasian BrainHack is about
   subsections:
-    - title: BrainHack Org
+    - title: BrainHack
       body:
         "The purpose of the Brainhack organistaion is to bridge the data science and
         neuroscience research communities to advance the progress of
@@ -19,15 +19,14 @@ about:
         convenes researchers from across the globe and myriad
         disciplines to work together on innovative projects related
         to neuroscience."
-    - title: BrainHack Global 2024
-      body: 'BrainHack Global (BHG) is a hackathon consisting of many
-        <a href="https://brainhack.org/global2024/events/">local events</a>
-        in different regions around the world. Sign up to be involved with any of the
-        <a href="https://brainhack.org/global2024/projects/">international projects</a>
-        and connect with peers in the Australasia Hub for advice,
-        training and social meet-ups.'
+    - title: BrainHack Aus 2024
+      body:
+        'BrainHack Aus 2024 is a hackathon to be held over three days at the
+        University of Melbourne. Bring a project or your curiosity, all are welcome.
+        This year it is being held in conjunction with OHBM Australia Chapter annual
+        meeting, and the Maths in the Brain conference.
     - title: Code of conduct
-      body: 'Brainhack Global is dedicated to a harassment-free conference
+      body: 'Brainhack is dedicated to a harassment-free conference
         experience for everyone. Our anti-harassment policy can be
         found here: <a href="http://www.brainhack.org/code-of-conduct.html">Code of
         Conduct</a>'
