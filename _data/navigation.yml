@@ -17,5 +17,5 @@ nav:
   - title: "connect"
     section: contact
 
-  - title: "Global"
-    url: https://brainhack.org/global2024/
+  # - title: "Global"
+  #   url: https://brainhack.org/global2024/
