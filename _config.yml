@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -26,13 +26,13 @@ url: "https://brainhack-aus.github.io" # the base hostname & protocol for your s
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
-title      : Brainhack Global 2024 - Aus
-email      : cnolan@gmail.com #this is also the email contact forms will go to
-description: "Australasia Hub of the 2024 BrainHack Global Hackathon"
-author     : Brainhack Australasia
+title: Brainhack Aus 2024
+email: cnolan@gmail.com #this is also the email contact forms will go to
+description: "Brainhack Australasia 2024"
+author: Brainhack Australasia
 # logo:     #optional, defaults to site title
-  # path: assets\img\clients\creative-market.jpg
-  # height: 60 #height in px, defaults to 52px
+# path: assets\img\clients\creative-market.jpg
+# height: 60 #height in px, defaults to 52px
 
 locale: "en-US" # See available languages in _data/sitetext.yml
 
@@ -43,7 +43,6 @@ collections:
   portfolio:
 
 markdown: kramdown
-
 # Uncomment following line to use Formspree form ID based URL instead of email based URL
 # Details: https://help.formspree.io/hc/en-us/articles/360017735154-How-to-prevent-spam
 # formspree_form_path: "f/a_form_id"
