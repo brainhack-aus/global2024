@@ -12,6 +12,10 @@
     - starttime: 2024-11-4T13:00:00+11:00
       endtime: 2024-11-4T18:00:00+11:00
       title: Hacking
+    - starttime: 2024-11-5T18:00:00+11:00
+      endtime: 2024-11-5T22:00:00+11:00
+      title: Social
+      venue: <a href="https://maps.app.goo.gl/MKmVXpB1MUzzuPRp9">Prudence</a>, 368 Victoria St, North Melbourne
 
 - name: "Tuesday, November 5"
   events:
@@ -27,10 +31,6 @@
     - starttime: 2024-11-5T13:00:00+11:00
       endtime: 2024-11-5T18:00:00+11:00
       title: Hacking
-    - starttime: 2024-11-5T18:00:00+11:00
-      endtime: 2024-11-5T22:00:00+11:00
-      title: Social
-      venue: TBA
 
 - name: "Wednesday, November 6"
   events:
