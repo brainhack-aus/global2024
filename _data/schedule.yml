@@ -1,6 +1,6 @@
 - name: "Monday, November 4"
   events:
-    - starttime: 2024-11-4T08:30:00+11:00
+    - starttime: 2024-11-4T09:00:00+11:00
       endtime:  2024-11-4T10:00:00+11:00
       title: Meet, greet (over breakfast)
     - starttime: 2024-11-4T10:00:00+11:00
@@ -10,7 +10,7 @@
       endtime:  2024-11-4T13:00:00+11:00
       title: Lunch
     - starttime: 2024-11-4T13:00:00+11:00
-      endtime: 2024-11-4T18:00:00+11:00
+      endtime: 2024-11-4T17:00:00+11:00
       title: Hacking
     - starttime: 2024-11-5T18:00:00+11:00
       endtime: 2024-11-5T22:00:00+11:00
@@ -26,15 +26,15 @@
       endtime:  2024-11-5T13:00:00+11:00
       title: Lunch
     - starttime: 2024-11-5T13:00:00+11:00
-      endtime: 2024-11-5T18:00:00+11:00
+      endtime: 2024-11-5T17:00:00+11:00
       title: Hacking
 
 - name: "Wednesday, November 6"
   events:
-    - starttime: 2024-11-6T08:30:00+11:00
-      endtime: 2024-11-6T09:00:00+11:00
-      title: Breakfast
     - starttime: 2024-11-6T09:00:00+11:00
+      endtime: 2024-11-6T09:30:00+11:00
+      title: Breakfast
+    - starttime: 2024-11-6T09:30:00+11:00
       endtime: 2024-11-6T12:00:00+11:00
       title: Hacking
     - starttime: 2024-11-6T12:00:00+11:00
@@ -47,5 +47,5 @@
       endtime: 2024-11-6T16:00:00+11:00
       title: Project demos
     - starttime: 2024-11-6T16:00:00+11:00
-      endtime: 2024-11-6T18:00:00+11:00
+      endtime: 2024-11-6T17:00:00+11:00
       title: DIY drinks
